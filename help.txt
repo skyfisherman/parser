@@ -1,0 +1,12 @@
+# learn to use the github, and I write the document to help me memorize some scripts.
+
+# to submit or change a file
+#
+#~ git add $filename
+#~ git commit -m "some commits here"
+#~ git push -u origin master
+
+# to create a new repository,
+#
+# git remote add origin https://github.com/username/projname.git
+# git push -u origin master
